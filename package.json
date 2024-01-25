@@ -1,0 +1,33 @@
+{
+  "name": "Create-SPL-Tokens-on-Solana-with-Metaplex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yongsxyz/Create-SPL-Tokens-on-Solana-with-Metaplex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yongsxyz/Create-SPL-Tokens-on-Solana-with-Metaplex/issues"
+  },
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.20.1",
+    "@metaplex-foundation/mpl-candy-machine": "^6.0.0",
+    "@metaplex-foundation/mpl-token-metadata": "^3.1.2",
+    "@metaplex-foundation/umi-bundle-defaults": "^0.9.0",
+    "@solana/spl-token": "^0.3.11",
+    "@solana/spl-token-metadata": "^0.1.2",
+    "@solana/spl-token-registry": "^0.2.4574",
+    "@solana/web3.js": "^1.89.1",
+    "bs58": "^5.0.0"
+  },
+  "homepage": "https://github.com/yongsxyz/Create-SPL-Tokens-on-Solana-with-Metaplex#readme",
+  "peerDependencies": {
+    "@metaplex-foundation/umi": "^0.8.10"
+  }
+}
